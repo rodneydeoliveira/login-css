@@ -1,0 +1,17 @@
+body * {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-menu {
+    background: #201b2c;
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-login {
+    width: 100%;
+}
